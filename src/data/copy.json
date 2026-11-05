@@ -1,5 +1,4 @@
 {
-  "personalNote": "[A personal note goes here]",
   "whoSees": [
     { "who": "You", "what": "everything, with backup, export and delete controls" },
     { "who": "Your contacts, in the app", "what": "nothing. This app sends no automatic alerts, so call or text them yourself" },

@@ -101,6 +101,8 @@ export type Labels = {
 
 export type Settings = {
   setupComplete: boolean;
+  /** Written on the phone during gift setup. Never in the repository. */
+  personalNote?: string;
   name: string;
   conditions: string[];
   medications: string[];

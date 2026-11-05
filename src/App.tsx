@@ -15,7 +15,7 @@ import { Readings, Recheck } from './screens/Readings';
 import { SettingsScreen } from './screens/Settings';
 import { VisitBrief } from './screens/VisitBrief';
 import { Visits } from './screens/Visits';
-import { Setup, Welcome } from './screens/Welcome';
+import { GiftSetup, Setup, Welcome } from './screens/Welcome';
 
 function Screen({ route }: { route: string }) {
   const { settings } = useApp();
@@ -25,6 +25,7 @@ function Screen({ route }: { route: string }) {
   if (first === 'serious') return <Serious />;
   if (first === 'call911') return <Call911 />;
   if (first === 'setup') return <Setup />;
+  if (first === 'gift') return <GiftSetup />;
   // Restoring has to work on a new phone, before setup.
   if (first === 'backup') return <Backup />;
   if (!settings.setupComplete) return <Welcome />;
