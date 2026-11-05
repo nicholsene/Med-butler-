@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
 // The GitHub Pages path, from the repository name. Paths are case-sensitive.
-const BASE = '/med-butler-/';
+const BASE = '/Med-butler-/';
 
 export default defineConfig({
   base: BASE,

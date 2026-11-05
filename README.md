@@ -16,7 +16,7 @@ The app is not medical advice, doesn't diagnose, and doesn't replace your doctor
 
 ## Install on iPhone
 
-1. In **Safari**, open `https://nicholsene.github.io/med-butler-/`.
+1. In **Safari**, open `https://nicholsene.github.io/Med-butler-/`.
 2. Tap the **Share** button, then **Add to Home Screen**, then **Add**.
 3. Close Safari and open **Butler** from the home screen. Use only this icon from now on.
 4. Finish setup. Then, in **Settings**, check the **Storage** line.
@@ -45,4 +45,4 @@ Pushing to `main` runs `.github/workflows/pages.yml`, which checks the data, run
 
 Once, in the repository on GitHub: **Settings > Pages > Source: GitHub Actions**.
 
-The Vite `base` in `vite.config.ts` must match the repository name exactly, including case. It's currently `/med-butler-/`.
+The Vite `base` in `vite.config.ts` must match the repository name exactly, including case. It's currently `/Med-butler-/`.
