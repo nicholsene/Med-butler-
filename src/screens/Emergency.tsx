@@ -26,6 +26,15 @@ export function Serious() {
         <a className="btn btn-outline btn-large" href={settings.setupComplete ? '#/readings' : '#/'}>
           None of these
         </a>
+        <section className="panel panel-green" data-testid="crisis-line">
+          <h2>Thinking about suicide or feeling you can't go on?</h2>
+          <a className="btn btn-outline btn-large" href="tel:988">
+            Call 988
+          </a>
+          <a className="btn btn-outline btn-large" href="sms:988">
+            Text 988
+          </a>
+        </section>
         <p className="muted small push-down">{NO_ALERTS}</p>
         <p className="muted small">{emergency.note}</p>
       </main>

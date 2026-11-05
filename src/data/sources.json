@@ -470,5 +470,13 @@
   "aha_911": {
     "title": "When To Call 911 About High Blood Pressure (American Heart Association)",
     "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/when-to-call-911-for-high-blood-pressure"
+  },
+  "nimh_sfaq": {
+    "title": "Frequently Asked Questions About Suicide (NIMH)",
+    "url": "https://www.nimh.nih.gov/health/publications/suicide-faq"
+  },
+  "cc_ali": {
+    "title": "Acute Limb Ischemia (Cleveland Clinic)",
+    "url": "https://my.clevelandclinic.org/health/diseases/acute-limb-ischemia"
   }
 }

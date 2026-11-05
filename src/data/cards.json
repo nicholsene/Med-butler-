@@ -427,11 +427,10 @@
         ]
       },
       {
-        "text": "Autonomic problems are often missed or mistaken for anxiety. Ask your care team to consider them if you feel faint.",
+        "text": "Autonomic problems are often overlooked or mistaken for anxiety. Mention dizziness or faintness to your care team.",
         "sources": [
           "rh_src1"
-        ],
-        "unverified": true
+        ]
       }
     ],
     "emergency": [
@@ -445,8 +444,7 @@
         "text": "Fainting with chest pain, confusion or shortness of breath was described as potentially serious.",
         "sources": [
           "cc_src5"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Chest pain, a fall with a head injury, or signs of shock (cold sweaty skin, fast breathing, blue lips or fingers, weak pulse) are listed as reasons for immediate care.",
@@ -702,8 +700,7 @@
         "text": "Symptoms of extreme low blood pressure or shock: confusion, cold clammy pale skin, rapid shallow breathing, weak rapid pulse. Call 911.",
         "sources": [
           "my_lbp"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "If a person who has fainted does not wake within one minute, call 911 or your local emergency number, and start CPR if not breathing.",
@@ -949,8 +946,7 @@
         "text": "Chest pain, especially with shortness of breath or jaw or arm pain, needs medical help right away (Mayo lists these as possible heart attack signs).",
         "sources": [
           "my_gerd"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "If a person who has fainted does not wake within one minute, call 911 or your local emergency number, and start CPR if not breathing.",
@@ -1398,8 +1394,7 @@
         "text": "Severe dehydration signs: confusion, fainting, rapid pulse, lack of sweating, seizures.",
         "sources": [
           "cc_src8"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Fainting (passing out) needs immediate help. If someone is with you, ask them to call an ambulance.",
@@ -1411,8 +1406,7 @@
         "text": "Vomiting blood, or vomiting with chest pain, severe abdominal pain, stiff neck or confusion.",
         "sources": [
           "cc_src7"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Severe dehydration needs medical treatment right away.",
@@ -1578,8 +1572,7 @@
         "text": "Giving food or drink to someone who is disoriented or unconscious.",
         "sources": [
           "cc_src36"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Do not assume this is low blood sugar. NIDDK information is written for people with diabetes and does not address low glucose without diabetes.",
@@ -1611,8 +1604,7 @@
         "text": "Mayo says low blood sugar with symptoms should not be ignored and may need an endocrinologist.",
         "sources": [
           "my_hypoNN"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Tell your doctor about repeated shaky, sweaty, hungry spells, especially related to skipped meals or with near-fainting.",
@@ -1627,15 +1619,13 @@
         "text": "Blurred or double vision, slurred speech, clumsiness, disorientation, seizures or loss of consciousness: call 911.",
         "sources": [
           "cc_src36"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Severe symptoms: unable to respond, fainting, seizure. Mayo describes these as emergencies.",
         "sources": [
           "my_hypo"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Call 911 for fainting, confusion, a seizure or loss of consciousness.",
@@ -2144,15 +2134,13 @@
         "text": "Vomiting blood, vomiting with chest pain or shortness of breath, severe abdominal pain, stiff neck or confusion.",
         "sources": [
           "cc_src7"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Severe dehydration signs including fainting, confusion, rapid pulse.",
         "sources": [
           "cc_src8"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Severe dehydration needs treatment right away.",
@@ -2398,11 +2386,10 @@
     ],
     "emergency": [
       {
-        "text": "Severe dehydration can be life-threatening: fainting, confusion, rapid pulse.",
+        "text": "Signs of severe dehydration or heatstroke need emergency care right away: fainting, confusion, rapid pulse.",
         "sources": [
           "cc_src8"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Severe dehydration needs medical treatment right away.",
@@ -2523,8 +2510,7 @@
         "safety": false,
         "sources": [
           "cc_src37"
-        ],
-        "unverified": true
+        ]
       },
       {
         "id": "S11-5",
@@ -2708,8 +2694,7 @@
         "safety": false,
         "sources": [
           "cc_src11"
-        ],
-        "unverified": true
+        ]
       },
       {
         "id": "S12-4",
@@ -2898,18 +2883,16 @@
     ],
     "avoid": [
       {
-        "text": "Large or fatty meals, chocolate, coffee, mint, garlic, onions and alcohol.",
+        "text": "Large or fatty meals. In larger amounts, chocolate, coffee, alcohol, mint, garlic and onions can relax the valve at the top of the stomach and worsen reflux.",
         "sources": [
           "cc_src12"
-        ],
-        "unverified": true
+        ]
       },
       {
-        "text": "Tight clothing, smoking and bending over after meals.",
+        "text": "Tight clothing and smoking. Bending over can also worsen reflux.",
         "sources": [
           "cc_src12"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Avoid tobacco; it is listed as a dry-mouth trigger.",
@@ -3138,8 +3121,16 @@
         "sources": [
           "cc_src18",
           "cc_src14"
-        ],
-        "unverified": true
+        ]
+      },
+      {
+        "id": "S14-6",
+        "steady": "Sudden severe pain, a cold or pale foot or leg, or numbness or loss of movement: call 911 now.",
+        "warm": "Sudden severe pain, a cold or pale foot or leg, or numbness or loss of movement needs 911 now. Please do not wait.",
+        "safety": true,
+        "sources": [
+          "cc_ali"
+        ]
       }
     ],
     "avoid": [
@@ -3197,8 +3188,7 @@
         "text": "Numbness, severe pain, sores that will not heal or being unable to feel your feet.",
         "sources": [
           "cc_src18"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Symptoms spreading or new faintness.",
@@ -3238,6 +3228,12 @@
       }
     ],
     "emergency": [
+      {
+        "text": "Sudden severe pain, cold or pale skin, numbness or loss of movement in a foot or leg: call 911 right away. It is a medical emergency.",
+        "sources": [
+          "cc_ali"
+        ]
+      },
       {
         "text": "Call 911 if numbness comes with weakness, loss of bowel or bladder control, confusion, slurred speech or vision change.",
         "sources": [
@@ -3666,8 +3662,7 @@
         "text": "Ask before trying fish oil or ginkgo.",
         "sources": [
           "my_ray"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Skin sores or ulcers on fingers or toes need a doctor.",
@@ -3693,8 +3688,7 @@
         "text": "Call 911 for numbness with weakness, confusion, or speech or vision change.",
         "sources": [
           "pc_src11"
-        ],
-        "unverified": true
+        ]
       }
     ],
     "doctorQuestions": [
@@ -3786,8 +3780,7 @@
         "sources": [
           "cc_src16",
           "pc_src11"
-        ],
-        "unverified": true
+        ]
       },
       {
         "id": "S17-4",
@@ -4031,8 +4024,7 @@
         "text": "Flare triggers: emotional stress, routine changes, irregular sleep, weather changes, illness, starting or changing a medicine.",
         "sources": [
           "cc_src19"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Doing too much on good days.",
@@ -4076,8 +4068,7 @@
         "text": "Talk with the care team before trying a new complementary treatment.",
         "sources": [
           "my_fm"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "New joint redness or swelling, or purple rashes, should be reviewed promptly.",
@@ -4477,22 +4468,19 @@
         "sources": [
           "cc_src21",
           "cc_src22"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "You cannot use the body part.",
         "sources": [
           "cc_src21"
-        ],
-        "unverified": true
+        ]
       },
       {
-        "text": "Call 911 after an injury with numbness, weakness or inability to move a limb.",
+        "text": "Call 911 if you have weakness or cannot move a limb along with numbness, or numbness just after a head, neck or back injury.",
         "sources": [
           "pc_src11"
-        ],
-        "unverified": true
+        ]
       }
     ],
     "doctorQuestions": [
@@ -4925,14 +4913,13 @@
       },
       {
         "id": "S23-4",
-        "steady": "Try relaxation, meditation or gentle walking.",
-        "warm": "Relaxation, meditation or gentle walking may ease it.",
+        "steady": "Try relaxation such as meditation, and walk or exercise regularly.",
+        "warm": "Relaxation such as meditation, and regular walking or exercise, may ease it.",
         "safety": false,
         "sources": [
           "pc_src36",
           "my_mens"
-        ],
-        "unverified": true
+        ]
       },
       {
         "id": "S23-5",
@@ -4959,11 +4946,10 @@
         ]
       },
       {
-        "text": "Do not use a heating pad on numb skin.",
+        "text": "Protect numb skin from cuts, bumps, bruises and burns.",
         "sources": [
           "pc_src11"
-        ],
-        "unverified": true
+        ]
       }
     ],
     "callDoctor": [
@@ -5114,13 +5100,12 @@
       },
       {
         "id": "S24-5",
-        "steady": "Fever with stiff neck, severe headache, confusion or trouble breathing: ER or 911. Check the emergency list for more signs.",
-        "warm": "Fever with stiff neck, severe headache, confusion or trouble breathing needs the ER or 911. Please check the emergency list for more signs.",
+        "steady": "Fever with stiff neck, severe headache, confusion, trouble breathing, belly pain or ongoing vomiting: ER or 911. Check the emergency list for more signs.",
+        "warm": "Fever with stiff neck, severe headache, confusion, trouble breathing, belly pain or ongoing vomiting needs the ER or 911. See the emergency list too.",
         "safety": true,
         "sources": [
           "cc_src26",
-          "my_fev",
-          "pc_src25"
+          "my_fev"
         ]
       }
     ],
@@ -5179,18 +5164,16 @@
     ],
     "emergency": [
       {
-        "text": "Fever with belly pain, vomiting, severe headache, stiff neck, light sensitivity, breathing trouble, confusion, seizures or a fever rash: go to the ER or call 911.",
+        "text": "Fever with belly pain, nausea or vomiting, severe headache, stiff neck, light sensitivity, seizures, trouble breathing, confusion, trouble waking, or a rash of tiny bleeding spots under the skin: go to the ER or call 911.",
         "sources": [
           "cc_src26"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Fever with severe headache, rash, light sensitivity, stiff neck, confusion, ongoing vomiting, trouble breathing, chest pain, belly pain, painful urination or seizure: immediate medical attention.",
         "sources": [
           "my_fev"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Call 911 if you cannot be awakened, are confused, cannot walk, have trouble breathing, a very bad headache, stiff neck or a seizure.",
@@ -5338,8 +5321,7 @@
         "text": "Avoid long-term redness-relief drops; they can worsen dryness.",
         "sources": [
           "rh_src10"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Do not overuse steroid eye drops; they can raise glaucoma and infection risk.",
@@ -5722,18 +5704,16 @@
         ]
       },
       {
-        "text": "Make an appointment for evaluation: pain and swelling of face or mouth, dry mouth, trouble swallowing or opening the mouth.",
+        "text": "Recurring swelling in the jaw: make an appointment for evaluation. A blocked salivary gland can cause pain and swelling in the face and mouth, dry mouth, and trouble swallowing or opening the mouth.",
         "sources": [
           "my_jaw"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Mayo lists swollen salivary glands as a Sjogren's symptom.",
         "sources": [
           "my_sjsym"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Contact a professional promptly if a gland is suddenly painful or swollen with fever, redness, pus, foul taste or feeling unwell.",
@@ -6105,8 +6085,7 @@
         "text": "Treatment is not helping, symptoms get worse, or you have side effects.",
         "sources": [
           "cc_src32"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "If sleep problems continue, talk to your health care team.",
@@ -6259,8 +6238,7 @@
         "text": "Allergy symptoms after taking a medicine.",
         "sources": [
           "cc_src33"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Medicine side effects.",
@@ -6285,8 +6263,7 @@
         "text": "Pilocarpine and cevimeline can cause sweating, belly pain, flushing, frequent urination; some allergy and depression medicines dry the mouth.",
         "sources": [
           "my_sjtx"
-        ],
-        "unverified": true
+        ]
       },
       {
         "text": "Check with your doctor before starting any new medicine, since some trigger Raynaud's attacks.",
@@ -6403,8 +6380,7 @@
           "cc_src34",
           "my_heat",
           "pc_src8"
-        ],
-        "unverified": true
+        ]
       },
       {
         "id": "S31-2",
@@ -6607,12 +6583,13 @@
     "steps": [
       {
         "id": "S32-0",
-        "steady": "If you are in crisis, call or text 988 now. It is free, confidential and open 24/7.",
-        "warm": "If you are in crisis, please call or text 988 now. It is free, confidential and open 24/7. You do not have to be alone.",
+        "steady": "If you are in crisis, call or text 988 now. It is free, confidential and open 24/7. In a life-threatening situation, call 911.",
+        "warm": "If you are in crisis, please call or text 988 now. It is free, confidential and open 24/7. In a life-threatening situation, call 911.",
         "safety": true,
         "sources": [
           "988",
-          "pc_src20"
+          "pc_src20",
+          "nimh_sfaq"
         ]
       },
       {
@@ -6642,8 +6619,7 @@
         "safety": false,
         "sources": [
           "my_fm"
-        ],
-        "unverified": true
+        ]
       },
       {
         "id": "S32-5",
@@ -6692,6 +6668,12 @@
       }
     ],
     "emergency": [
+      {
+        "text": "In a life-threatening situation, call 911.",
+        "sources": [
+          "nimh_sfaq"
+        ]
+      },
       {
         "text": "If you are in crisis, call or text 988. It is free, confidential and open 24/7.",
         "sources": [

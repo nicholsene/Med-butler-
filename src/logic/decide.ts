@@ -97,10 +97,11 @@ export function decide(
     situation = 'very_high_bp';
   } else if (low) {
     situation = fluidLoss ? 'low_bp_fluid_loss' : 'low_bp';
+  } else if (fluidLoss) {
+    // Checked first because the low-sugar guide can't address vomiting. A flag still mentions low sugar.
+    situation = 'fluid_loss';
   } else if (possibleSugar) {
     situation = 'possible_low_sugar';
-  } else if (fluidLoss) {
-    situation = 'fluid_loss';
   }
 
   if (!situation) return { kind: 'none', reason: hasBp ? 'in_range' : 'no_match', flags };
