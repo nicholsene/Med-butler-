@@ -1,0 +1,6 @@
+{
+  "lowBp": { "systolicBelow": 90, "diastolicBelow": 60 },
+  "veryHighBp": { "systolicAbove": 180, "diastolicAbove": 120, "recheckMinutes": 1 },
+  "restingPulse": { "min": 60, "max": 100 },
+  "guideRecheckMinutes": 15
+}

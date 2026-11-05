@@ -1,0 +1,50 @@
+[
+  {
+    "id": "standing",
+    "name": "Dizzy, faint or blood pressure"
+  },
+  {
+    "id": "sugar",
+    "name": "Shaky or possible low sugar"
+  },
+  {
+    "id": "gut",
+    "name": "Stomach and bowels"
+  },
+  {
+    "id": "nerve",
+    "name": "Nerves, hands and feet"
+  },
+  {
+    "id": "pain",
+    "name": "Pain and joints"
+  },
+  {
+    "id": "energy",
+    "name": "Energy and thinking"
+  },
+  {
+    "id": "dryness",
+    "name": "Dry eyes and mouth"
+  },
+  {
+    "id": "hormone",
+    "name": "Cycle and hormones"
+  },
+  {
+    "id": "fever",
+    "name": "Fever and sweats"
+  },
+  {
+    "id": "meds",
+    "name": "Medicines"
+  },
+  {
+    "id": "other",
+    "name": "Headache, sleep and heat"
+  },
+  {
+    "id": "support",
+    "name": "Support and hard days"
+  }
+]

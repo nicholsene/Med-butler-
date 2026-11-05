@@ -1,0 +1,474 @@
+{
+  "988": {
+    "title": "988 Suicide & Crisis Lifeline",
+    "url": "https://988lifeline.org/"
+  },
+  "cc_src1": {
+    "title": "I Feel Like I'm Going To Faint (presyncope)",
+    "url": "https://my.clevelandclinic.org/health/diseases/presyncope"
+  },
+  "cc_src10": {
+    "title": "Lymphocytic Colitis",
+    "url": "https://my.clevelandclinic.org/health/diseases/24634-lymphocytic-colitis"
+  },
+  "cc_src11": {
+    "title": "Gastroparesis",
+    "url": "https://my.clevelandclinic.org/health/diseases/15522-gastroparesis"
+  },
+  "cc_src12": {
+    "title": "Acid Reflux & GERD",
+    "url": "https://my.clevelandclinic.org/health/diseases/17019-acid-reflux-gerd"
+  },
+  "cc_src13": {
+    "title": "Esophageal Disorders",
+    "url": "https://my.clevelandclinic.org/health/diseases/16976-esophageal-disorders"
+  },
+  "cc_src14": {
+    "title": "Small Fiber Neuropathy",
+    "url": "https://my.clevelandclinic.org/health/diseases/17479-small-fiber-neuropathy"
+  },
+  "cc_src15": {
+    "title": "Peripheral Neuropathy",
+    "url": "https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy"
+  },
+  "cc_src16": {
+    "title": "Numbness & Tingling",
+    "url": "https://my.clevelandclinic.org/health/symptoms/21015-numbness"
+  },
+  "cc_src17": {
+    "title": "Raynaud's Syndrome",
+    "url": "https://my.clevelandclinic.org/health/diseases/9849-raynauds-phenomenon"
+  },
+  "cc_src18": {
+    "title": "Cold Feet",
+    "url": "https://my.clevelandclinic.org/health/diseases/23045-cold-feet"
+  },
+  "cc_src19": {
+    "title": "Fibromyalgia",
+    "url": "https://my.clevelandclinic.org/health/diseases/4832-fibromyalgia"
+  },
+  "cc_src2": {
+    "title": "Dysautonomia",
+    "url": "https://my.clevelandclinic.org/health/diseases/6004-dysautonomia"
+  },
+  "cc_src20": {
+    "title": "Joint Pain",
+    "url": "https://my.clevelandclinic.org/health/symptoms/17752-joint-pain"
+  },
+  "cc_src21": {
+    "title": "Dislocation",
+    "url": "https://my.clevelandclinic.org/health/diseases/17873-dislocation"
+  },
+  "cc_src22": {
+    "title": "Ehlers-Danlos Syndrome",
+    "url": "https://my.clevelandclinic.org/health/diseases/17813-ehlers-danlos-syndrome"
+  },
+  "cc_src23": {
+    "title": "Fatigue",
+    "url": "https://my.clevelandclinic.org/health/symptoms/21206-fatigue"
+  },
+  "cc_src24": {
+    "title": "Brain Fog",
+    "url": "https://my.clevelandclinic.org/health/symptoms/brain-fog"
+  },
+  "cc_src25": {
+    "title": "Dysmenorrhea",
+    "url": "https://my.clevelandclinic.org/health/diseases/4148-dysmenorrhea"
+  },
+  "cc_src26": {
+    "title": "Fever",
+    "url": "https://my.clevelandclinic.org/health/symptoms/10880-fever"
+  },
+  "cc_src27": {
+    "title": "Dry Eyes",
+    "url": "https://my.clevelandclinic.org/health/diseases/24479-dry-eye"
+  },
+  "cc_src28": {
+    "title": "Sjogren's Syndrome",
+    "url": "https://my.clevelandclinic.org/health/diseases/4929-sjogrens-syndrome"
+  },
+  "cc_src29": {
+    "title": "Dry Mouth (Xerostomia)",
+    "url": "https://my.clevelandclinic.org/health/diseases/10902-dry-mouth-xerostomia"
+  },
+  "cc_src3": {
+    "title": "Orthostatic Hypotension",
+    "url": "https://my.clevelandclinic.org/health/diseases/9385-low-blood-pressure-orthostatic-hypotension"
+  },
+  "cc_src30": {
+    "title": "Sialadenitis (Salivary Gland Infection)",
+    "url": "https://my.clevelandclinic.org/health/diseases/15749-sialadenitis-swollen-salivary-gland"
+  },
+  "cc_src31": {
+    "title": "Headache",
+    "url": "https://my.clevelandclinic.org/health/diseases/9639-headaches"
+  },
+  "cc_src32": {
+    "title": "Insomnia",
+    "url": "https://my.clevelandclinic.org/health/diseases/12119-insomnia"
+  },
+  "cc_src33": {
+    "title": "Drug Allergy",
+    "url": "https://my.clevelandclinic.org/health/diseases/8621-medication-allergies"
+  },
+  "cc_src34": {
+    "title": "Heat Intolerance",
+    "url": "https://my.clevelandclinic.org/health/symptoms/heat-intolerance"
+  },
+  "cc_src35": {
+    "title": "Heat Exhaustion",
+    "url": "https://my.clevelandclinic.org/health/diseases/21480-heat-exhaustion"
+  },
+  "cc_src36": {
+    "title": "Hypoglycemia (Low Blood Sugar)",
+    "url": "https://my.clevelandclinic.org/health/diseases/11647-hypoglycemia-low-blood-sugar"
+  },
+  "cc_src37": {
+    "title": "Fecal (Bowel) Incontinence",
+    "url": "https://my.clevelandclinic.org/health/diseases/14574-fecal-bowel-incontinence"
+  },
+  "cc_src38": {
+    "title": "What Is a Chronic Illness? How To Cope",
+    "url": "https://my.clevelandclinic.org/health/articles/4062-chronic-illness"
+  },
+  "cc_src4": {
+    "title": "Low Blood Pressure (Hypotension)",
+    "url": "https://my.clevelandclinic.org/health/diseases/21156-low-blood-pressure-hypotension"
+  },
+  "cc_src5": {
+    "title": "Syncope (Fainting)",
+    "url": "https://my.clevelandclinic.org/health/diseases/17536-syncope"
+  },
+  "cc_src6": {
+    "title": "Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "url": "https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots"
+  },
+  "cc_src7": {
+    "title": "Emesis (Vomiting)",
+    "url": "https://my.clevelandclinic.org/health/symptoms/vomiting"
+  },
+  "cc_src8": {
+    "title": "Dehydration",
+    "url": "https://my.clevelandclinic.org/health/diseases/9013-dehydration"
+  },
+  "cc_src9": {
+    "title": "Diarrhea",
+    "url": "https://my.clevelandclinic.org/health/diseases/4108-diarrhea"
+  },
+  "gi_src1": {
+    "title": "NIDDK - Microscopic Colitis",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/microscopic-colitis"
+  },
+  "gi_src2": {
+    "title": "NIDDK - Diarrhea: Symptoms and Causes",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea/symptoms-causes"
+  },
+  "gi_src3": {
+    "title": "NIDDK - Diarrhea: Eating, Diet, and Nutrition",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea/eating-diet-nutrition"
+  },
+  "gi_src5": {
+    "title": "American College of Gastroenterology (gi.org) - Gastroparesis",
+    "url": "https://gi.org/topics/gastroparesis/"
+  },
+  "gi_src6": {
+    "title": "American College of Gastroenterology (gi.org) - Acid Reflux",
+    "url": "https://gi.org/topics/acid-reflux/"
+  },
+  "gi_src7": {
+    "title": "American College of Gastroenterology (gi.org) - Dysphagia",
+    "url": "https://gi.org/topics/dysphagia/"
+  },
+  "gi_src8": {
+    "title": "Sjogren's Foundation - Symptoms",
+    "url": "https://sjogrens.org/understanding-sjogrens/symptoms"
+  },
+  "my_dehy": {
+    "title": "Dehydration - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086"
+  },
+  "my_dys": {
+    "title": "Mayo Clinic Q and A: Dysphagia is a common concern with several possible explanations (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-dysphagia-is-a-common-concern-with-several-possible-explanations/"
+  },
+  "my_endo": {
+    "title": "Mayo Clinic Q&A: Can menstrual pain be caused by endometriosis? (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-can-menstrual-pain-be-caused-by-endometriosis/"
+  },
+  "my_fa": {
+    "title": "Fainting: First aid - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-fainting/basics/art-20056606"
+  },
+  "my_faint": {
+    "title": "Mayo Clinic Q and A: When does fainting require medical attention? (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-when-does-fainting-require-medical-attention/"
+  },
+  "my_fev": {
+    "title": "Fever - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/fever/symptoms-causes/syc-20352759"
+  },
+  "my_fevNN": {
+    "title": "Home Remedies: Fighting a fever (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/home-remedies-fighting-a-fever/"
+  },
+  "my_fm": {
+    "title": "Fibromyalgia - Diagnosis and treatment - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/fibromyalgia/diagnosis-treatment/drc-20354785"
+  },
+  "my_gerd": {
+    "title": "Gastroesophageal reflux disease (GERD) - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940"
+  },
+  "my_head": {
+    "title": "Headache - When to see a doctor - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/symptoms/headache/basics/when-to-see-doctor/sym-20050800"
+  },
+  "my_heat": {
+    "title": "Heat exhaustion: First aid - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-heat-exhaustion/basics/art-20056651"
+  },
+  "my_heatNN": {
+    "title": "Mayo Clinic Minute: Heat exhaustion and heatstroke (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-heat-exhaustion-and-heatstroke/"
+  },
+  "my_hypo": {
+    "title": "Hypoglycemia - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685"
+  },
+  "my_hypoNN": {
+    "title": "Weekend Wellness: Hypoglycemia can lead to severe medical problems if left untreated (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/weekend-wellness-hypoglycemia-can-lead-to-severe-medical-problems-if-left-untreated/"
+  },
+  "my_jaw": {
+    "title": "Tuesday Q and A: Intermittent swelling in jaw should be evaluated to determine cause and treatment (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/tuesday-q-and-a-intermittent-swelling-in-jaw-should-be-evaluated-to-determine-cause-and-treatment/"
+  },
+  "my_jp": {
+    "title": "Joint pain - When to see a doctor - Mayo Clinic",
+    "url": "https://mayoclinic.org/symptoms/joint-pain/basics/when-to-see-doctor/sym-20050668"
+  },
+  "my_lbp": {
+    "title": "Low blood pressure (hypotension) - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/low-blood-pressure/symptoms-causes/syc-20355465"
+  },
+  "my_mc": {
+    "title": "Mayo Clinic Q and A: Could this be the cause of your persistent diarrhea? (Mayo Clinic News Network, microscopic colitis)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-could-this-be-the-cause-of-your-persistent-diarrhea/"
+  },
+  "my_mens": {
+    "title": "Menstrual cramps - Diagnosis and treatment - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/menstrual-cramps/diagnosis-treatment/drc-20374944"
+  },
+  "my_naus": {
+    "title": "Nausea and vomiting - When to see a doctor - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/symptoms/nausea/basics/when-to-see-doctor/sym-20050736"
+  },
+  "my_num": {
+    "title": "Mayo Clinic Q&A: When to worry about numbness and tingling (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-qa-when-to-worry-about-numbness-and-tingling/"
+  },
+  "my_oh": {
+    "title": "Orthostatic hypotension (postural hypotension) - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/orthostatic-hypotension/symptoms-causes/syc-20352548"
+  },
+  "my_ohq": {
+    "title": "Mayo Clinic Q and A: Orthostatic hypotension is more than feeling dizzy every now and then (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-orthostatic-hypotension-is-more-than-feeling-dizzy-every-now-and-then/"
+  },
+  "my_pn": {
+    "title": "Peripheral neuropathy - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061"
+  },
+  "my_ray": {
+    "title": "Raynaud's disease - Diagnosis and treatment - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/raynauds-disease/diagnosis-treatment/drc-20363572"
+  },
+  "my_relax": {
+    "title": "Relaxation techniques: Try these steps to reduce stress - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368"
+  },
+  "my_sjsym": {
+    "title": "Sjogren disease - Symptoms and causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/sjogrens-syndrome/symptoms-causes/syc-20353216"
+  },
+  "my_sjtx": {
+    "title": "Sjogren disease - Diagnosis and treatment - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/sjogrens-syndrome/diagnosis-treatment/drc-20353221"
+  },
+  "my_sleep": {
+    "title": "Mayo Clinic Q and A: 5 ways to get better sleep (Mayo Clinic News Network)",
+    "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-5-ways-to-get-better-sleep/"
+  },
+  "pc_src1": {
+    "title": "MedlinePlus: Fainting",
+    "url": "https://medlineplus.gov/ency/article/003092.htm"
+  },
+  "pc_src10": {
+    "title": "NIAMS: Raynaud's Phenomenon, Diagnosis, Treatment and Steps to Take",
+    "url": "https://www.niams.nih.gov/health-topics/raynauds-phenomenon/diagnosis-treatment-and-steps-to-take"
+  },
+  "pc_src11": {
+    "title": "MedlinePlus: Numbness and tingling",
+    "url": "https://medlineplus.gov/ency/article/003206.htm"
+  },
+  "pc_src12": {
+    "title": "NHLBI: Insomnia Treatment",
+    "url": "https://www.nhlbi.nih.gov/health/insomnia/treatment"
+  },
+  "pc_src13": {
+    "title": "CDC: Lyme Disease Signs and Symptoms",
+    "url": "https://www.cdc.gov/lyme/signs-symptoms/index.html"
+  },
+  "pc_src15": {
+    "title": "American Heart Association: Tachycardia, Fast Heart Rate",
+    "url": "https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/tachycardia--fast-heart-rate"
+  },
+  "pc_src16": {
+    "title": "MedlinePlus: Nausea and vomiting",
+    "url": "https://medlineplus.gov/ency/article/003117.htm"
+  },
+  "pc_src17": {
+    "title": "NIDDK: Gastroparesis, Eating, Diet and Nutrition",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/eating-diet-nutrition"
+  },
+  "pc_src18": {
+    "title": "NINDS: Headache",
+    "url": "https://www.ninds.nih.gov/health-information/disorders/headache"
+  },
+  "pc_src19": {
+    "title": "NIDCR: Dry Mouth",
+    "url": "https://www.nidcr.nih.gov/health-info/dry-mouth"
+  },
+  "pc_src2": {
+    "title": "American Stroke Association: Stroke Symptoms",
+    "url": "https://www.stroke.org/en/about-stroke/stroke-symptoms"
+  },
+  "pc_src20": {
+    "title": "CDC: About Mental Health",
+    "url": "https://www.cdc.gov/mental-health/about/index.html"
+  },
+  "pc_src21": {
+    "title": "MedlinePlus: Diarrhea",
+    "url": "https://medlineplus.gov/diarrhea.html"
+  },
+  "pc_src22": {
+    "title": "NIDDK: Acid Reflux (GER and GERD) in Adults, Symptoms and Causes",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/symptoms-causes"
+  },
+  "pc_src23": {
+    "title": "NEI: Dry Eye",
+    "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye"
+  },
+  "pc_src24": {
+    "title": "NIAMS: Arthritis",
+    "url": "https://www.niams.nih.gov/health-topics/arthritis"
+  },
+  "pc_src25": {
+    "title": "MedlinePlus: Fever",
+    "url": "https://medlineplus.gov/ency/article/003090.htm"
+  },
+  "pc_src26": {
+    "title": "NIDDK: Low Blood Glucose (Hypoglycemia)",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia"
+  },
+  "pc_src27": {
+    "title": "NHLBI: Low Blood Pressure",
+    "url": "https://www.nhlbi.nih.gov/health/low-blood-pressure"
+  },
+  "pc_src28": {
+    "title": "American Heart Association: Low Blood Pressure, When Blood Pressure Is Too Low",
+    "url": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/low-blood-pressure-when-blood-pressure-is-too-low"
+  },
+  "pc_src29": {
+    "title": "MedlinePlus: Ehlers-Danlos Syndrome",
+    "url": "https://medlineplus.gov/ehlersdanlossyndrome.html"
+  },
+  "pc_src3": {
+    "title": "NINDS: Peripheral Neuropathy",
+    "url": "https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy"
+  },
+  "pc_src30": {
+    "title": "CDC: About ME/CFS",
+    "url": "https://www.cdc.gov/me-cfs/about/index.html"
+  },
+  "pc_src31": {
+    "title": "NIDCR: Sjogren's Syndrome",
+    "url": "https://www.nidcr.nih.gov/health-info/sjogrens-syndrome"
+  },
+  "pc_src33": {
+    "title": "MedlinePlus: Salivary Gland Disorders",
+    "url": "https://medlineplus.gov/salivaryglanddisorders.html"
+  },
+  "pc_src35": {
+    "title": "CDC: About Sleep",
+    "url": "https://www.cdc.gov/sleep/about/index.html"
+  },
+  "pc_src36": {
+    "title": "MedlinePlus: Painful menstrual periods",
+    "url": "https://medlineplus.gov/ency/article/003150.htm"
+  },
+  "pc_src5": {
+    "title": "MedlinePlus: Dehydration",
+    "url": "https://medlineplus.gov/dehydration.html"
+  },
+  "pc_src6": {
+    "title": "American Heart Association: Warning Signs of a Heart Attack",
+    "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack"
+  },
+  "pc_src7": {
+    "title": "NIDDK: Microscopic Colitis, Symptoms and Causes",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/microscopic-colitis/symptoms-causes"
+  },
+  "pc_src8": {
+    "title": "CDC NIOSH: Heat-related Illnesses",
+    "url": "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html"
+  },
+  "pc_src9": {
+    "title": "AAFP American Family Physician: Fatigue in Adults",
+    "url": "https://www.aafp.org/afp/2023/0700/fatigue-adults"
+  },
+  "rh_src1": {
+    "title": "Sjogren's Foundation: Peripheral Nervous System Clinical Practice Guideline summary (Dec 2025)",
+    "url": "https://info.sjogrens.org/hubfs/Sj%C3%B6grens_Foundation_PNS_CPG_2026.pdf"
+  },
+  "rh_src10": {
+    "title": "Sjogren's Foundation: Treatments for Sjogren's Disease",
+    "url": "https://sjogrens.org/treatment-and-care/treatments-for-sjogrens-disease"
+  },
+  "rh_src11": {
+    "title": "American College of Rheumatology: Rheumatoid Arthritis",
+    "url": "https://rheumatology.org/patients/rheumatoid-arthritis"
+  },
+  "rh_src2": {
+    "title": "NIAMS: Sjogren's Syndrome",
+    "url": "https://www.niams.nih.gov/health-topics/sjogrens-syndrome"
+  },
+  "rh_src3": {
+    "title": "American College of Rheumatology: Raynaud's Phenomenon",
+    "url": "https://rheumatology.org/patients/raynauds-phenomenon"
+  },
+  "rh_src4": {
+    "title": "Sjogren's Foundation: Symptoms",
+    "url": "https://www.sjogrens.org/understanding-sjogrens/symptoms"
+  },
+  "rh_src5": {
+    "title": "American College of Rheumatology: Fibromyalgia",
+    "url": "https://rheumatology.org/patients/fibromyalgia"
+  },
+  "rh_src7": {
+    "title": "American College of Rheumatology: Sjogren's Disease",
+    "url": "https://rheumatology.org/patients/sjogrens-disease"
+  },
+  "rh_src8": {
+    "title": "NIAMS: Raynaud's Phenomenon",
+    "url": "https://www.niams.nih.gov/health-topics/raynauds-phenomenon"
+  },
+  "rh_src9": {
+    "title": "Sjogren's Foundation: Oral Health, Dry Mouth, and Sjogren's Disease",
+    "url": "https://sjogrens.org/understanding-sjogrens/how-sjogrens-disease-affects-the-body/oral-health-dry-mouth-and-sjogrens"
+  },
+  "aha_911": {
+    "title": "When To Call 911 About High Blood Pressure (American Heart Association)",
+    "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/when-to-call-911-for-high-blood-pressure"
+  }
+}

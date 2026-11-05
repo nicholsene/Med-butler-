@@ -1,0 +1,9 @@
+{
+  "personalNote": "[A personal note goes here]",
+  "whoSees": [
+    { "who": "You", "what": "everything, with backup, export and delete controls" },
+    { "who": "Your contacts, in the app", "what": "nothing. This app sends no automatic alerts, so call or text them yourself" },
+    { "who": "Whoever keeps the app running", "what": "nothing. Your data stays on this phone" },
+    { "who": "Health data reviews", "what": "none unless you choose. A review file is made only when you tap, you see what's in it first, and you decide who gets it" }
+  ]
+}
