@@ -96,6 +96,14 @@ describe('low blood sugar is only ever possible, and only from symptoms', () => 
       flags: ['possible_low_sugar'],
     });
   });
+  it('routes shaky with vomiting to fluid loss and keeps the sugar flag', () => {
+    const r: Routing = { ...routing, fluid_loss: 'fluid-card' };
+    expect(run({ symptoms: { shakySweaty: true, vomiting: true } }, r)).toMatchObject({
+      cardId: 'fluid-card',
+      situation: 'fluid_loss',
+      flags: ['possible_low_sugar'],
+    });
+  });
   it('every label that mentions sugar says possible', () => {
     const inputs: DecideInput[] = [
       { symptoms: { shakySweaty: true } },
